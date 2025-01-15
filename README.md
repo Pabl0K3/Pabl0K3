@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pabl0K3
-- 👀 I’m interested in learning more about coding
+- 👀 I’m interested in learning about coding
 - 🌱 I’m currently learning higher degree module of DAM
 - 💞️ I’m looking to collaborate on proyects that requires a lot of code´s known
 - Pronouns: He/him
